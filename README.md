@@ -1,4 +1,4 @@
-# INT2208_final_project: Car plate numbers detection
+# Car_license_plate_detection
 ## Thành viên nhóm:  
 - Vũ Đình Thọ 22022580  
 - Nguyễn Công Thành 22022630  
