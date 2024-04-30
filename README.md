@@ -1,5 +1,6 @@
 ## Dự án sử dụng các ứng dụng của AI trong trạm thu phí BOT
-Thực hiện bởi: Nguyễn Tuấn Thành
+Thực hiện bởi các sinh viên: Nguyễn Tuấn Thành, Nguyễn Công Thành, Vũ Đình Thọ.
+
 ### Các chức năng:
 - Lưu trữ Tên lái xe, Biển số, Loại xe có số chỗ ngồi, Số dư tài khoản, Lịch sử giao dịch, Số tờ tiền với từng loại trong cây BOT.
 - Máy nhận dạng biển số ô tô: Sử dụng YOLO để lấy ảnh chỉ có biển số xe. Sau đó dùng OCR để lấy ra chuỗi kí tự biển số. Rồi tiếp tục các chức năng khác với những truy vấn vào CSDL.
