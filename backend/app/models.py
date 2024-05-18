@@ -8,7 +8,7 @@ class Driver(Base):
     __tablename__ = "driver"
 
     cid = Column(Integer, primary_key=True)
-    name = Column(String(35), nullable=False)
+    name = Column(String(35))
     money = Column(Integer,default=0)
     password = Column(String(35), nullable=False)
 

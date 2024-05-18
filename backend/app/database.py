@@ -1,8 +1,6 @@
-from sqlalchemy import create_engine, orm
+from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-
-
 '''
 nếu dùng database bằng SQL server
 connection = pyodbc.connect(
@@ -15,14 +13,13 @@ connection = pyodbc.connect(
     )
 '''
 
-
-SQLALCHEMY_DATABASE_URL = "sqlite:///./database.db"
+SQLALCHEMY_DATABASE_URL = "sqlite:///./backend/app/database_sqlite.db"
 
 
 engine = create_engine(
-    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
+    SQLALCHEMY_DATABASE_URL , connect_args={"check_same_thread": False}
 )
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 
-Base = orm.declarative_base()
+Base = declarative_base()
