@@ -21,6 +21,5 @@ Thực hiện bởi các sinh viên: Nguyễn Tuấn Thành, Nguyễn Công Thà
 ![Image alt text](img/database_diagram.png)
 
 ## Báo cáo và video mô tả dưới đường link:
-https://drive.google.com/drive/folders/1e2-fBOVAFPYpCK7pPQZDfGSiWrnQFVpC?usp=drive_link
-
+https://drive.google.com/drive/folders/1e2-fBOVAFPYpCK7pPQZDfGSiWrnQFVpC?usp=sharing
 
