@@ -1,7 +1,11 @@
 
  
 ## Dự án sử dụng các ứng dụng của AI trong trạm thu phí BOT triển khai trên nền tảng web bằng các framework chính là FastAPI và ReactJs.
-Thực hiện bởi các sinh viên: Nguyễn Tuấn Thành, Nguyễn Công Thành, Vũ Đình Thọ.
+Thực hiện bởi các sinh viên: 
+Nguyễn Tuấn Thành 22022624, 
+Nguyễn Công Thành 22022630,  
+Vũ Đình Thọ 22022580,
+Nguyễn Công Thành 22021555
 
 ### Các chức năng của tài xế:
 - Đăng nhập, đăng kí tài khoản tài xế.
